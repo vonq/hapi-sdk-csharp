@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VONQ", "VONQ/VONQ.csproj", "{1b6b8c78-724e-412d-b44b-cc1b8f4c4cd1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAPI.Tests", "HAPI.Tests/HAPI.Tests.csproj", "{24b0c1a8-08a9-44f4-a0f0-0e8e1ac706a9}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {1b6b8c78-724e-412d-b44b-cc1b8f4c4cd1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {1b6b8c78-724e-412d-b44b-cc1b8f4c4cd1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {1b6b8c78-724e-412d-b44b-cc1b8f4c4cd1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {1b6b8c78-724e-412d-b44b-cc1b8f4c4cd1}.Release|Any CPU.Build.0 = Release|Any CPU
+        {24b0c1a8-08a9-44f4-a0f0-0e8e1ac706a9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {24b0c1a8-08a9-44f4-a0f0-0e8e1ac706a9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {24b0c1a8-08a9-44f4-a0f0-0e8e1ac706a9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {24b0c1a8-08a9-44f4-a0f0-0e8e1ac706a9}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
